@@ -11,8 +11,6 @@ Want to know more about me? </br>
 Hit `npx kalpit` command in your console or terminal
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalpitrathore.kalpitrathore)
- ![visitors](https://img.shields.io/github/release-date/kalpitrathore/kalpitrathore) 
- ![visitors](https://img.shields.io/github/downloads/kalpitrathore/kalpitrathore/total)  
 </p>
 
 <h3>Connect with me:</h3>
