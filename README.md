@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/Nnz7p1F/download-1.png" />
 <h3>About:</h3>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="380">
 <br>
