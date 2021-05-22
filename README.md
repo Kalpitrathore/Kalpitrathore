@@ -11,6 +11,7 @@ Want to know more about me? </br>
 Hit `npx kalpit` command in your console or terminal
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalpitrathore.kalpitrathore)
+ 
 </p>
 
 <h3>Connect with me:</h3>
@@ -30,6 +31,20 @@ Hit `npx kalpit` command in your console or terminal
 </span>
 
 <br>
+<h3>Skills</h3>
+
+```javascript
+let skills = {
+                "frontend": ["HTML", "CSS", "JS/ES6", "AJAX", "REACT"],
+                "backend": ["Node.js", "Express.js", "PHP", "REST API"],
+                "database": ["MongoDB", "MySQL", "DynamoDB"],
+                "operating system": ["Linux"],
+                "tool": ["GIT"],
+                "programming": ["C", "C++", "Java"]
+              }
+```
+
+<br>
 <h3>Latest blog posts</h3>
 
 - [How to get time spent by users on a webpage using Node.js?](https://dev.to/kalpitrathore/how-to-get-time-spent-by-users-on-a-webpage-using-node-js-530f)
@@ -39,11 +54,20 @@ Hit `npx kalpit` command in your console or terminal
 
 
 <h3>Github Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitrathore&layout=compact" />
+<h3></h3>
+<img src="https://github-readme-stats.vercel.app/api?username=kalpitrathore&hide=contribs&show_icons=true" />
+<h3></h3>
 
-<div>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitrathore&layout=compact" />
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=kalpitrathore&hide=contribs&show_icons=true" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalpitrathore)](https://git.io/streak-stats)
+
+<h3>Random Qoute</h3>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=chartreuse-dark)
+
+<h3>Random joke</h3>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 <h3></h3>
 
