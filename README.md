@@ -36,12 +36,15 @@ Hit `npx kalpit` command in your console or terminal
 
 ```javascript
 let skills = {
-                "frontend": ["HTML", "CSS", "JS/ES6", "AJAX", "REACT"],
-                "backend": ["Node.js", "Express.js", "PHP", "REST API"],
-                "database": ["MongoDB", "MySQL", "DynamoDB"],
-                "operating system": ["Linux"],
-                "tool": ["GIT"],
-                "programming": ["C", "C++", "Java"]
+                "Frontend": ["HTML", "CSS", "JS/ES6", "REACT"],
+                "Backend": ["Node.js", "Python", "Docker"],
+                "Framework": ["NestJS", "FastAPI", "Express.JS"],
+                "Datasource": ["MongoDB", "PostgreSQL", "Redis"],
+                "Cloud": ["AWS", "Heroku", "Firebase"],
+                "AWS": ["EC2", "ECS", "EKS", "RDS"],
+                "Queue": ["Kafka", "RabbitMQ", "SQS"],
+                "Monitoring": ["New Relic", "Sentry", "Sonarqube"],
+                "CI/CD": ["Jenkins", "Gitlab CI"]
               }
 ```
 
@@ -53,24 +56,6 @@ let skills = {
 - [What the node.js project structure should look like?](https://dev.to/kalpitrathore/what-the-node-js-project-structure-should-look-like-2noo)
 - [Serving HTML files using Node.js on Ubuntu](https://dev.to/kalpitrathore/serving-html-files-using-node-js-on-ubuntu-j7e)
 
-
-<h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitrathore&layout=compact" />
-<h3></h3>
-<img src="https://github-readme-stats.vercel.app/api?username=kalpitrathore&hide=contribs&show_icons=true" />
-<h3></h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalpitrathore)](https://git.io/streak-stats)
-
-<h3>Random Qoute</h3>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=chartreuse-dark)
-
-<h3>Random joke</h3>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
-<h3></h3>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="380" />
